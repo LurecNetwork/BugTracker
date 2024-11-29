@@ -2,3 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Discord Community
     url: https://discord.lurec.net
+    about: This is the official Discord server for Lurec.
+  - name: Website to find all the resources
+    url: https://lurec.net
+    about: This'll help you find what you're looking for.
